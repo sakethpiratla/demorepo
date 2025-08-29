@@ -415,7 +415,7 @@
 
         .deal-content {
             width: 50%;
-            padding: 40px;
+            padding: 30px;
         }
 
         .deal-timer {
