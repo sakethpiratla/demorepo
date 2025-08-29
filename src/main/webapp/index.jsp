@@ -59,7 +59,7 @@
 
         .logo {
             font-size: 28px;
-            font-weight: 700;
+            font-weight: 600;
             color: var(--primary);
             text-decoration: none;
             font-family: 'Poppins', sans-serif;
